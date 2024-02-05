@@ -33,3 +33,10 @@
 2. 너무 많은 정보를 담을 순 없다. json의 항목들 - 전승민
 3. 당일 주문은 11시까지만 가능하다 - 이동혁, 임성현
 
+## Repositories
+- [R0-Main](https://github.com/SupplyChainManagementCrew/R0-Main)
+- [R1-Json-Server](https://github.com/SupplyChainManagementCrew/R1-Json-Server)
+- [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
+- [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
+- [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-Vue)
+
