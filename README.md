@@ -1,14 +1,16 @@
 # SCMC (SCM Crew)
 
 ## - TEAM ROLE
-| ROLE | NAME |
-|----------|-----|
-| Project Manager | [박민성🦖](https://github.com/parc02) |
-| Tech Leader | [심규혁🐼](https://github.com/shimguh) |
-| Agile Coach | [이동혁🧛‍♂️](https://github.com/ldh0308) |
-| Presenter | [전승민🐹](https://github.com/CoffeerLatte) |
-| Git Manager | [임성현👻](https://github.com/dhkdtld37) |
 
+<div align="center">
+
+| **Project Manager** | **Tech Leader** | **Agile Coach** | **Presenter** | **Git Manager** |
+| :------: |  :------: | :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/148880521?v=4" height=150 width=150> <br/> 박민성🦖](https://github.com/parc02) | [<img src="https://avatars.githubusercontent.com/u/80744883?v=4" height=150 width=150> <br/> 심규혁🐼](https://github.com/shimguh) | [<img src="https://avatars.githubusercontent.com/u/142721325?v=4" height=150 width=150> <br/> 이동혁🧛‍♂️](https://github.com/ldh0308) | [<img src="https://avatars.githubusercontent.com/u/125641153?v=4" height=150 width=150> <br/> 전승민🐹](https://github.com/CoffeerLatte) | [<img src="https://avatars.githubusercontent.com/u/149128094?v=4" height=150 width=150> <br/> 임성현👻](https://github.com/dhkdtld37) 
+
+</div>
+
+<br>
 
 - 공급망 관리를 위한 주문 시스템
 
