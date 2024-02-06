@@ -48,3 +48,6 @@
 ## - Kanban Board
 - Kanban 회의는 매일 9시20분, 5시 정각에 진행한다
 - https://github.com/orgs/SupplyChainManagementCrew/projects/1
+
+# - 중간 통합 레포
+- https://github.com/SupplyChainManagementCrew/R4-VUE-
