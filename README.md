@@ -51,3 +51,6 @@
 
 # - 중간 통합 레포
 - https://github.com/SupplyChainManagementCrew/R4-VUE-
+
+# - 출력 화면
+- https://scmc-dev.web.app/
