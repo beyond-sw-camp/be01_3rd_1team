@@ -59,7 +59,7 @@ https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689
 ## - 중간 통합 레포
 - https://github.com/SupplyChainManagementCrew/R4-VUE-
 
-## - 출력 화면
+## - Firebase URL
 - https://scmc-b3b8f.web.app/
 
 ## - ppt
