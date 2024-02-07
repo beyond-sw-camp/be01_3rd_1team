@@ -56,7 +56,7 @@
 - https://scmc-dev.web.app/
 
 # - 1차 부하 테스트 결과 (24-02-07)
-- ![image](https://github.com/beyond-sw-camp/be01_3nd_1team/assets/125641153/1dbfc6c3-58ca-4697-a3ab-499df10d74b5)
+![image](https://github.com/beyond-sw-camp/be01_3nd_1team/assets/125641153/1dbfc6c3-58ca-4697-a3ab-499df10d74b5)
   
 ```
 Total Vusers	1,000
