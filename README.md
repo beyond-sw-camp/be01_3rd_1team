@@ -54,3 +54,24 @@
 
 # - 출력 화면
 - https://scmc-dev.web.app/
+
+# - 1차 부하 테스트 결과 (24-02-07)
+- ![image](https://github.com/beyond-sw-camp/be01_3nd_1team/assets/125641153/1dbfc6c3-58ca-4697-a3ab-499df10d74b5)
+  
+```
+Total Vusers	1,000
+Agent	1
+Processes
+Threads	10 / 100
+Sample Ignore	0
+TPS	1,005.7
+Peak TPS	1,493
+Mean Test Time	936.47 ms
+Executed Tests	451,920
+Successful Tests	296,020
+Errors	155,900
+```
+
+
+
+
