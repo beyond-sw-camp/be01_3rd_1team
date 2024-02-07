@@ -60,7 +60,7 @@ https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689
 - https://github.com/SupplyChainManagementCrew/R4-VUE-
 
 ## - 출력 화면
-- https://scmc-dev.web.app/
+- https://scmc-b3b8f.web.app/
 
 ## - ppt
 https://docs.google.com/presentation/d/18Sc3LajhbN95P0w-Z9rLqXfREgw8EUg8LK4s8FnN-8s/edit?usp=sharing
