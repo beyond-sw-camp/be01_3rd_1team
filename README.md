@@ -15,7 +15,11 @@
 
 <br>
 
-- 공급망 관리를 위한 주문 시스템
+## - Project Topic
+<b> 공급망 관리를 위한 주문 시스템 </b>
+
+## - Project Duration
+2024/2/6 ~ 2024/2/7
 
 ## - 요구사항
 1. 주문서를 받는 것. - 이동혁
@@ -45,24 +49,27 @@
 - [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
 - [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)
 
+# - 구현 영상
+https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689053-a7bc-4e96-8f58-1610da9ab0d3
+
 ## - Kanban Board
 - Kanban 회의는 매일 9시20분, 5시 정각에 진행한다
 - https://github.com/orgs/SupplyChainManagementCrew/projects/1
 
-# - 중간 통합 레포
+## - 중간 통합 레포
 - https://github.com/SupplyChainManagementCrew/R4-VUE-
 
-# - 출력 화면
+## - 출력 화면
 - https://scmc-dev.web.app/
 
-# - ppt
+## - ppt
 https://docs.google.com/presentation/d/18Sc3LajhbN95P0w-Z9rLqXfREgw8EUg8LK4s8FnN-8s/edit?usp=sharing
 
-# - 구현 영상
+## - 구현 영상
 https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689053-a7bc-4e96-8f58-1610da9ab0d3
 
 
-# - 1차 부하 테스트 결과 (24-02-07)
+## - 1차 부하 테스트 결과 (24-02-07)
 ![image](https://github.com/beyond-sw-camp/be01_3nd_1team/assets/125641153/1dbfc6c3-58ca-4697-a3ab-499df10d74b5)
   
 ```
@@ -78,7 +85,5 @@ Executed Tests	451,920
 Successful Tests	296,020
 Errors	155,900
 ```
-
-
 
 
