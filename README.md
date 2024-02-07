@@ -54,12 +54,13 @@
 
 # - 출력 화면
 - https://scmc-dev.web.app/
+- 
+# - ppt
+https://docs.google.com/presentation/d/18Sc3LajhbN95P0w-Z9rLqXfREgw8EUg8LK4s8FnN-8s/edit?usp=sharing
 
 # - 구현 영상
 https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689053-a7bc-4e96-8f58-1610da9ab0d3
 
-# - ppt
-https://docs.google.com/presentation/d/18Sc3LajhbN95P0w-Z9rLqXfREgw8EUg8LK4s8FnN-8s/edit?usp=sharing
 
 # - 1차 부하 테스트 결과 (24-02-07)
 ![image](https://github.com/beyond-sw-camp/be01_3nd_1team/assets/125641153/1dbfc6c3-58ca-4697-a3ab-499df10d74b5)
