@@ -47,7 +47,7 @@
 - [R1-Json-Server](https://github.com/SupplyChainManagementCrew/R1-Json-Server)
 - [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
 - [R3-NPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
-- [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)
+- ~~[R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)~~
 - [R4-VUETI](https://github.com/SupplyChainManagementCrew/R4-VUETI)
 
 # - 구현 영상
